@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo(a) ao meu perfil no GitHub!👋🙂
 
 - Apaixonado por desenvolvimento, dados, segurança, IA e tudo relacionado!
-- Caso queira conhecer um pouco mais sobre mim, acesse meu GitHub Pages [clicando aqui](https://github.com/leoaugustosv).
+- Caso queira conhecer um pouco mais sobre mim, acesse meu GitHub Pages clicando [aqui]([https://github.com/leoaugustosv](https://github.com/leoaugustosv/leoaugustosv.github.io)).
 - Abaixo você pode conferir um pouquinho dos meus stats:
 
 <div>
